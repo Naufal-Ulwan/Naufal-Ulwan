@@ -6,6 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Naufal-Ulwan&label=Profile%20views&color=0e75b6&style=flat" alt="Naufal-Ulwan" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Naufal-Ulwan" alt="Naufal-Ulwan" /></a> </p>
 
+</br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Naufal-Ulwan&show_icons=true&locale=id" alt="Naufal-Ulwan" /></p>
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/75620422/153873044-361cb201-275c-40b5-b9e4-55bd0175b25d.gif" width="400" />
 
 <h3 align="left">Talking about Personal Stuffs:</h3>
@@ -24,7 +26,3 @@
 </p>
 </br>
 
-</br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Naufal-Ulwan&show_icons=true&locale=id" alt="Naufal-Ulwan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Naufal-Ulwan&theme=default" alt="Naufal-Ulwan" /></p>
