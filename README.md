@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Naufal-Ulwan" alt="Naufal-Ulwan" /></a> </p>
 
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/75620422/154913368-94161491-0696-467f-866e-496dec12ff67.gif" width="350" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/75620422/154913368-94161491-0696-467f-866e-496dec12ff67.gif" width="370" />
 
 <h3 align="left">Talking about Personal Stuffs:</h3>
 
