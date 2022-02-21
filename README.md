@@ -12,7 +12,7 @@
 
 <h3 align="left">Talking about Personal Stuffs:</h3>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter** in Alterra Academy
 
 - 📫 How to reach me **https://www.instagram.com/opangpoo/**
 
