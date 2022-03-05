@@ -2,13 +2,12 @@
 <h3 align="center">I study at Krisnadwipayana University 🏫</h3>
 <img alt="GIF" src="https://user-images.githubusercontent.com/75620422/154913029-8b75bd7e-27d4-40f4-8de4-8c1dd949ccb6.gif" width="1100" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Naufal-Ulwan&label=Profile%20views&color=0e75b6&style=flat" alt="Naufal-Ulwan" /> </p></br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Naufal-Ulwan&label=Profile%20views&color=0e75b6&style=flat" alt="Naufal-Ulwan" /> </p>
 <h3 align="left">Talking about Personal Stuffs:</h3>
 
 - 🌱 I’m currently learning **Flutter** in Alterra Academy
 
 - 📫 How to reach me **https://www.instagram.com/opangpoo/**
-
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Naufal-Ulwan&show_icons=true&locale=id" alt="Naufal-Ulwan" /></p></p>
 
