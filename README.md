@@ -15,9 +15,9 @@
 </br>
 <h3 align="right">Connect with me:</h3>
 <p align="right">
-<a href="https://linkedin.com/in/naufal-ulwan-3b08961ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naufalulwan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/naufal-ulwan-3b08961ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naufal-ulwan" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17963645" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17963645" height="30" width="40" /></a>
-<a href="https://instagram.com/opangpoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0p.png" height="30" width="40" /></a>
+<a href="https://instagram.com/0p.png" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0p.png" height="30" width="40" /></a>
 </p>
 
 
