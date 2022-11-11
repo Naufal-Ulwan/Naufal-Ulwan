@@ -5,7 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Naufal-Ulwan&label=Profile%20views&color=0e75b6&style=flat" alt="Naufal-Ulwan" /> </p>
 <h3 align="left">Talking about Personal Stuffs:</h3>
 
-- 🌱 I’m currently learning **Flutter** in Alterra Academy
+- 🌱 I've learned **Flutter** on Alterra Academy
+- 🌱 I've learned **React Native** on Coursera
+- 🛍️ I'm currently internship in Indi Technology
 
 - 📫 How to reach me **https://www.instagram.com/0p.png/**
 
