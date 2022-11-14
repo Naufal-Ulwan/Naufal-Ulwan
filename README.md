@@ -9,7 +9,7 @@
 - 🌱 I've learned **React Native** on Coursera
 - 🛍️ I'm currently internship in Indi Technology
 
-📫 How to reach me **https://www.instagram.com/0p.png/** or **https://linkedin.com/in/naufal-ulwan-3b08961ab**
+📫 How to reach me **https://linkedin.com/in/naufal-ulwan-3b08961ab**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naufalulwan&show_icons=true&locale=id" alt="naufalulwan" /></p></p>
 
