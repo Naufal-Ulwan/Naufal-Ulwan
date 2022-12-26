@@ -5,9 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Naufal-Ulwan&label=Profile%20views&color=0e75b6&style=flat" alt="Naufal-Ulwan" /> </p>
 <h3 align="left">Talking about Personal Stuffs:</h3>
 
-- 🌱 Plant
+- 🌱 Planting
 - 🌱 Gardening
-- 🌱 Harvest
+- 🌱 Harvesting
 
 📫 How to reach me **https://linkedin.com/in/naufal-ulwan-3b08961ab**
 
